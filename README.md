@@ -1,4 +1,4 @@
-# project-digital-business
+# project-digital-business ( landing Page ) 
 
 LandingPage ArelunaAtelier ( Platform UMKM )
 - Farhan Ardiansyah - 23.11.5464 
